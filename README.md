@@ -16,5 +16,5 @@ All distributable files live in [assets](assets).
 
 Wordmark-over-p2p-mesh assets for the [pkc-js](https://github.com/bitsocialnet/pkc-js) repository, in [assets/pkc-js](assets/pkc-js):
 
-- `icon-on-white-389.png` and `icon-on-black-389.png` are 389 x 389 square icons (e.g. group/community icons).
+- `icon-on-white-500.png` and `icon-on-black-500.png` are 500 x 500 square icons (e.g. group/community icons).
 - `banner-light-1280x640.png` and `banner-dark-1280x640.png` are 1280 x 640 banners sized for the GitHub repository social preview.
